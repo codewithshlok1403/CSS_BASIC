@@ -5,5 +5,5 @@ Colors: Set the background, text, and border colors.
 Fonts: Define the font family, size, weight, and spacing of text.
 Layouts: Use grids, flexboxes, and positioning to structure elements on the page.
 Spacing: Manage margins, padding, and borders to control the layout of elements.
-Transitions & Animations: Add interactive effects, like hover animations or smooth transitions.
+Transitions & Animations: Add interactive effects, like hover animations or smooth transitions
 
